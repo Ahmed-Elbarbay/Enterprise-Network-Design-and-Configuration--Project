@@ -1,0 +1,2 @@
+# Enterprise-Network-Design-and-Configuration--Project
+This project aims to design a secure and efficient enterprise network across multiple sites using Cisco Packet Tracer 8.2.2. It includes VLAN segmentation, dynamic routing, redundancy, and security measures to ensure scalability and reliability. The goal is to create a resilient infrastructure that supports seamless operations across all locations.
